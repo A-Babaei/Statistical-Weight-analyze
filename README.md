@@ -1,4 +1,4 @@
-# 📗 README — Body Weight Analysis Code
+# Body Weight Analysis Code
 
 ## **Project**
 
